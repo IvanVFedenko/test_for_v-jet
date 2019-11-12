@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/test_for_v-jet/static/css/main.c148b557.chunk.css",
+    "main.js": "/test_for_v-jet/static/js/main.9fe27a09.chunk.js",
+    "main.js.map": "/test_for_v-jet/static/js/main.9fe27a09.chunk.js.map",
+    "runtime-main.js": "/test_for_v-jet/static/js/runtime-main.2848ebf3.js",
+    "runtime-main.js.map": "/test_for_v-jet/static/js/runtime-main.2848ebf3.js.map",
+    "static/js/2.95b40edb.chunk.js": "/test_for_v-jet/static/js/2.95b40edb.chunk.js",
+    "static/js/2.95b40edb.chunk.js.map": "/test_for_v-jet/static/js/2.95b40edb.chunk.js.map",
+    "index.html": "/test_for_v-jet/index.html",
+    "precache-manifest.85b41e402b31236fbcf9adee8a19b041.js": "/test_for_v-jet/precache-manifest.85b41e402b31236fbcf9adee8a19b041.js",
+    "service-worker.js": "/test_for_v-jet/service-worker.js",
+    "static/css/main.c148b557.chunk.css.map": "/test_for_v-jet/static/css/main.c148b557.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2848ebf3.js",
+    "static/js/2.95b40edb.chunk.js",
+    "static/css/main.c148b557.chunk.css",
+    "static/js/main.9fe27a09.chunk.js"
+  ]
+}
