@@ -1,0 +1,18 @@
+html, body, ul, li {
+  margin: 0;
+  padding: 0;
+  border-width: 0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  line-height: inherit;
+  scroll-behavior: smooth;
+  list-style-type: none; 
+}
+
+body {
+  line-height: 1.5;
+}
+
+strong {
+  font-weight: 500;
+}
